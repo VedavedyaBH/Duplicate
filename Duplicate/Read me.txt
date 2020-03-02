@@ -1,0 +1,57 @@
+Team Members
+
+ Name                 USN
+
+*Vedavedya B H      1KS18CS112
+*Venkatesh M N      1KS18CS114
+*Rahul P            1KS18CS078
+
+Contribution
+
+Name                USN
+
+Vedavedya B H       Logic and coding
+Venkatesh M N       Debugging
+Rahul P             Modification
+
+
+How it works?
+
+*This program is writteen in c.
+*Create a text file containing the data i.e numbers(include duplicate numbers).
+*Place this text file in the root file.
+*Compile the given code and execute. 
+*It asks for the name of the file to be read. Give the name of the file you just created.
+*If there is a duplicate in that file , it displays it. Else it exits automatically. 
+
+
+
+Illustration
+
+Name of the text file is "c.txt"
+
+(After executing)
+Enter the name of the file to e read
+c.txt
+The duplicate item is 3.
+
+
+Challenges Faced
+
+*File concept.
+*Coding in a clean and efficient way.
+*Distribution of work among the team members.
+*Keeping up the time. 
+
+
+
+What we learnt from this project
+
+
+*How to analyse a problem systematically
+*How to design a program so that it is easier to understand.
+*Handling a problem professionally 
+
+
+
+*A text file with data has been attached along with this for reference.*
