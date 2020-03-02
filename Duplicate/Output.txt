@@ -1,0 +1,17 @@
+Output
+
+Text file data 
+1 2 3 3 4 5
+
+(after execution)
+Enter the name of the file to be read
+"c.txt"
+The duplicate is 3
+
+Basic operation 
+Comparision
+
+
+Time complexity
+
+O(n^2)
